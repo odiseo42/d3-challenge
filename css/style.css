@@ -1,0 +1,15 @@
+path {
+  stroke-width: 1.5px;
+  stroke: #666;
+  fill: hsl(120, 39%, 54%);
+}
+
+#options {
+  position: absolute;
+  width: 240px;
+}
+
+#options button {
+  display: block;
+  margin-bottom: 15px;
+}
